@@ -1,0 +1,15 @@
+
+header {
+    background-color: blue;
+    color: white;
+}
+#logo {
+    display: inline-block;
+    width: 30%;
+    text-align: center;
+}
+#buscador {
+    display: inline-block;
+    text-align: right;
+}
+
